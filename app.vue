@@ -129,7 +129,7 @@ abbr {
 <script setup>
 useSeoMeta({
   title: "Eulenlauf Radebeul",
-  description: "Feuerwehr-Treppenlauf auf der Spitzhaustreppe in Radebeul",
+  description: "Samstag, 07.09. @ Spitzhaustreppe Radebeul",
   ogImage: "/og.jpg",
 });
 </script>
