@@ -61,9 +61,9 @@
 
     <p>
       Der <strong>Eulenlauf Radebeul</strong> ist ein Feuerwehr-Treppenlauf im
-      2er-Trupp: Komplette Einsatzbekleidung und unter Atemschutz. Start & Ziel
-      befinden sich <strong>oben</strong> am Bismarckturm, es geht also zuerst
-      hinunter und anschließend wieder hinauf:
+      2er-Trupp: Eine Runde in komplette Einsatzbekleidung und unter Atemschutz.
+      Start & Ziel befinden sich <strong>oben</strong> am Bismarckturm, es geht
+      also zuerst hinunter und anschließend wieder hinauf:
     </p>
 
     <p><img src="/images/elevation-profile.png" /></p>
