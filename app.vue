@@ -132,4 +132,15 @@ useSeoMeta({
   description: "Samstag, 07.09. @ Spitzhaustreppe Radebeul",
   ogImage: "/og.jpg",
 });
+
+useHead({
+  script: [
+    {
+      src: "https://plausible.io/js/script.js",
+      "data-domain": "treppenlauf-radebeul.vercel.app",
+      defer: true,
+    },
+  ],
+});
+
 </script>
