@@ -2,6 +2,7 @@
   <section
     class="hero is-halfheight is-link"
     style="
+      background-color: #000;
       background-image: url(/images/IMG_7000.jpg);
       background-size: cover;
       background-position: 50% 80%;
