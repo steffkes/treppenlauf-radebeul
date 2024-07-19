@@ -137,7 +137,7 @@ useSeoMeta({
 useHead({
   script: [
     {
-      src: "https://plausible.io/js/script.js",
+      src: "https://plausible.io/js/script.outbound-links.js",
       "data-domain": "treppenlauf-radebeul.vercel.app",
       defer: true,
     },
