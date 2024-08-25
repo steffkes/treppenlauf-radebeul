@@ -32,7 +32,7 @@
         <p class="is-size-3">🦉</p>
       </div>
       <div class="column">
-        <p class="is-size-3"><abbr title="Sonntag">So</abbr>, 08.09. 02 Uhr</p>
+        <p class="is-size-3"><abbr title="Samstag">Sa</abbr>, 07.09. 20 Uhr</p>
         <p>Siegerehrung</p>
       </div>
     </div>
